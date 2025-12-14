@@ -1,0 +1,14 @@
+{
+    "act1_a": {
+        "ryan_cooper": "Ryan Cooper",
+        "loose_ends": "Cabos Sueltos",
+        "gps_sent": "GPS Enviado",
+        "join_pursuit": "Unirse a la persecución",
+        "join_pursuit_desc": "Únete a Ryan Cooper en la persecución a alta velocidad por las calles de la ciudad."
+    },
+    
+    "char_select": {
+        "jenna": "Jenna",
+        "derek": "Derek"
+    }
+}

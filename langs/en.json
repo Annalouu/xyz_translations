@@ -1,0 +1,17 @@
+{
+    "act1_a": {
+        "ryan_cooper": "Ryan Cooper",
+        "loose_ends": "Loose Ends",
+        "gps_sent": "GPS Sent",
+        "join_pursuit": "Join the pursuit",
+        "join_pursuit_desc": "Join Ryan Cooper in the high-speed chase through the city streets."
+    },
+    "act1_chase": {
+        "stop_car_title": "Stop the Fleeing Car",
+        "stop_car_desc": "Damage the escaping vehicle to disable it."
+    },
+    "char_select": {
+        "jenna": "Jenna",
+        "derek": "Derek"
+    }
+}
